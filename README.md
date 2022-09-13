@@ -28,6 +28,3 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 ### Video Walktrough
 
 ![](https://github.com/AndresXI/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
-
-Please feel free to create a pull request and submit any issues!
-Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
